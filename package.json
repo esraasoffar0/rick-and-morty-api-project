@@ -1,0 +1,27 @@
+{
+  "name": "rock-morty-api-proj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "next": "15.1.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-paginate": "^8.2.0",
+    "react-router-dom": "^7.0.2",
+    "rock-morty-api-proj": "file:",
+    "sass": "^1.83.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0"
+  }
+}
